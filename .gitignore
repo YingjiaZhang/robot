@@ -1,0 +1,7 @@
+.idea/
+*.pkl
+*.swp
+*.json
+/robot-student-management
+/__pycache__
+
